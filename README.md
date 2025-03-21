@@ -1,0 +1,2 @@
+# matsuri_for_logibond_line_archive
+matsuri for ロジボン のLINEのアーカイブをシートに残すアプリ
